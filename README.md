@@ -1,0 +1,1 @@
+Just landing without js
